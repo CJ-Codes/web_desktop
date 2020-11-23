@@ -1,0 +1,28 @@
+[
+  {
+    "name" : "图集",
+    "icon" : "/lib/iamges/88606f4c4893403a928e358018e52a61.jpg",
+    "file": "photo"
+  },
+  {
+    "name" : "音乐",
+    "icon" : "/lib/iamges/12ae9fe41809afc8872fd549efceb7cc.jpg",
+    "file": "music"
+  },
+  {
+    "name" : "演示",
+    "id" : "WEB2_func_demo",
+    "icon" : "/lib/iamges/f2734d8d37ecc5a5b1beb0189649310b.jpg",
+    "file": "demo"
+  },
+  {
+    "name" : "测试",
+    "icon" : "/lib/iamges/c4746df5aeb35057c734002ddd042144.jpg",
+    "file": "api/"
+  },
+  {
+    "name" : "空",
+    "icon" : "/lib/iamges/96a6c4d2ec85308de62ae15ef89c9b4d.jpg",
+    "file": "api/"
+  }
+]

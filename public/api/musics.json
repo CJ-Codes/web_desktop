@@ -1,0 +1,66 @@
+[
+  {
+    "name": "一期一会",
+    "access":"/lib/songs/005b_3af7_7d78_dbabdfe54ddaf39e11b5580c2c5c2639.mp3",
+    "lrcUrl": "/lib/lrc/005b_3af7_7d78_dbabdfe54ddaf39e11b5580c2c5c2639.lrc",
+    "duration": "351.314778"
+  },
+  {
+    "name": "Shiny tale",
+    "access":"/lib/songs/3d41_a4d1_36c5_8df8e8792e2ca85fd8033d9e7e9b08a6.mp3",
+    "lrcUrl": "/lib/lrc/3d41_a4d1_36c5_8df8e8792e2ca85fd8033d9e7e9b08a6.lrc",
+    "duration": "262.160392"
+  },
+  {
+    "name": "造梦者",
+    "access":"/lib/songs/fa0b_fd3d_2d16_1783e092705785263c4b5c924f0b7314.mp3",
+    "lrcUrl": "/lib/lrc/fa0b_fd3d_2d16_1783e092705785263c4b5c924f0b7314.lrc",
+    "duration": "233.582924"
+  },
+  {
+    "name": "虹",
+    "access":"/lib/songs/obj_wo3DlMOGwrbDjj7DisKw_4578486476_4f8e_4937_7699_4bbfdcb40c152bac46f3e329e81f4f28.mp3",
+    "lrcUrl": "/lib/lrc/obj_wo3DlMOGwrbDjj7DisKw_4578486476_4f8e_4937_7699_4bbfdcb40c152bac46f3e329e81f4f28.lrc",
+    "duration": "258.790654"
+  },
+  {
+    "name": "天空之城",
+    "access": "/lib/songs/obj_w5zDlMODwrDDiGjCn8Ky_2395099624_a918_1cd7_cdc2_8a86f9b86331f0c5b6b1c4b075538af4.mp3",
+    "duration": "180.346288"
+  },
+  {
+    "name": "夜的钢琴曲",
+    "access": "/lib/songs/0453_5459_0e5e_39095c84dec3c3853f5994ff49db4f28.mp3",
+    "duration": "139.674334"
+  },
+  {
+    "name": "Summer",
+    "access": "/lib/songs/0652_045d_5558_189894337a37534a2a65b2098a617dc6.mp3",
+    "duration": "244.37131"
+  },
+  {
+    "name": "風の住む街",
+    "access": "/lib/songs/5320_138d_0e62_0070d21b659ec518a7153b8651c1852e.mp3",
+    "duration": "286.009778"
+  },
+  {
+    "name": "願い",
+    "access": "/lib/songs/17f0_eeba_7ce4_9d2b45ebdc781c97a46c8289abd19657.mp3",
+    "duration": "99.472576"
+  },
+  {
+    "name": "潮鳴り",
+    "access": "/lib/songs/d74d_c3cf_dcb6_071dae0f0c3b25b56852efcd5e83405b.mp3",
+    "duration": "157.071586"
+  },
+  {
+    "name": "If I were a Bird",
+    "access": "/lib/songs/obj_w5zDlMODwrDDiGjCn8Ky_3248233967_ef24_2e06_becd_b7322e5ee8d64d20198342f7a03d78eb.mp3",
+    "duration": "107.204688"
+  },
+  {
+    "name": "Sakura Tears",
+    "access": "/lib/songs/26b2_f1e4_7fa8_c30dea0ab7bfa72183ea3eea0d668d5b.mp3",
+    "duration": "184.186222"
+  }
+]
